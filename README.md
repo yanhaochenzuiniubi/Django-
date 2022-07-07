@@ -1,2 +1,2 @@
-# Django文件项目
-基于python django项目的一个简单的文件收集系统，收集到指定的文件夹下，并且利用python的http服务来查看下载文件，同时可以利用paramiko库的sftp来进行文件的批量下载。
+# Django毕业设计项目
+基于python django项目的一个简单的展馆信息。
